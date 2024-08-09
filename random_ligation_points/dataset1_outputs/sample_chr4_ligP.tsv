@@ -1,0 +1,2 @@
+LigP_ID	query_ID	subject_ID	length	perc_id	q_start	q_end	s_start	s_end	evalue	q_seq	s_seq	start_harbor	end_harbor	end_LG1	start_homolog1	end_homolog1	LG1_distance	start_harbor2	end_harbor2	end_LG2	start_homolog2	end_homolog2	LG2_distance	Ligshift
+LigP_794464_972378	upstream_LG	downstream_LG	35	85.714	254	288	175	209	6.78e-05	GGCGGGGGGCCGGGGGGCCCGCGGCCGGCCCCCGG	GGCGGGGGGCGGGGGGGCCGCGGCCCGGCCCCCGG	794165	794464	794465	794419	794453	11	972378	972677	972379	972553	972587	90	79
